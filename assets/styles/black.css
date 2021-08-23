@@ -1,0 +1,11 @@
+.header_logo-txt,
+.header_nav-item > a,
+.intro_title,
+.team_title,
+.wrapper_info,
+.victory_title {
+    color: #000000;
+}
+.header_nav-line {
+    background-color: #000000;
+}
