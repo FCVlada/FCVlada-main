@@ -6,5 +6,5 @@ function waveFunction () {
     waveCount = waveCount + 500;
     wave[0].style.backgroundPositionX = waveCount + 'px';
     wave[1].style.backgroundPositionX = waveCount + 'px';
-    setTimeout(waveFunction, 4000)
+    setTimeout(waveFunction, 3500)
 }
